@@ -1,13 +1,13 @@
 {
-  "main.css": "/cardGuessGame/static/css/main.16f5c599.chunk.css",
-  "main.js": "/cardGuessGame/static/js/main.af2d3637.chunk.js",
-  "main.js.map": "/cardGuessGame/static/js/main.af2d3637.chunk.js.map",
-  "static/js/1.8df7078f.chunk.js": "/cardGuessGame/static/js/1.8df7078f.chunk.js",
-  "static/js/1.8df7078f.chunk.js.map": "/cardGuessGame/static/js/1.8df7078f.chunk.js.map",
-  "runtime~main.js": "/cardGuessGame/static/js/runtime~main.8e5f5dd6.js",
-  "runtime~main.js.map": "/cardGuessGame/static/js/runtime~main.8e5f5dd6.js.map",
-  "static/css/main.16f5c599.chunk.css.map": "/cardGuessGame/static/css/main.16f5c599.chunk.css.map",
-  "index.html": "/cardGuessGame/index.html",
-  "precache-manifest.93c1f6df86e27a2118beeba4b185ed2b.js": "/cardGuessGame/precache-manifest.93c1f6df86e27a2118beeba4b185ed2b.js",
-  "service-worker.js": "/cardGuessGame/service-worker.js"
+  "main.css": "/tictactoe/static/css/main.83ad05f5.chunk.css",
+  "main.js": "/tictactoe/static/js/main.40f19a37.chunk.js",
+  "main.js.map": "/tictactoe/static/js/main.40f19a37.chunk.js.map",
+  "static/js/1.8df7078f.chunk.js": "/tictactoe/static/js/1.8df7078f.chunk.js",
+  "static/js/1.8df7078f.chunk.js.map": "/tictactoe/static/js/1.8df7078f.chunk.js.map",
+  "runtime~main.js": "/tictactoe/static/js/runtime~main.a6a71d35.js",
+  "runtime~main.js.map": "/tictactoe/static/js/runtime~main.a6a71d35.js.map",
+  "static/css/main.83ad05f5.chunk.css.map": "/tictactoe/static/css/main.83ad05f5.chunk.css.map",
+  "index.html": "/tictactoe/index.html",
+  "precache-manifest.63be2d3975485f72274606e920033d42.js": "/tictactoe/precache-manifest.63be2d3975485f72274606e920033d42.js",
+  "service-worker.js": "/tictactoe/service-worker.js"
 }
